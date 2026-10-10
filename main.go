@@ -33,7 +33,7 @@ const (
 	openRouterAPIBaseURL = "https://api.vsegpt.ru/v1"
 	openRouterKey        = "YOUR_OPENROUTER_KEY"
 	vseGPTKey            = "YOUR_VSEGPT_API_KEY"
-	adminID              = 1171928665
+	adminID              = -
 	modelID              = "gpt-3.5-turbo"
 	cacheFile            = "cache.txt"
 	logFile              = "bot.log"
